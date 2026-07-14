@@ -1,83 +1,82 @@
 <div align="center">
 
-# Hi there, I'm Feroz 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,50:1E3A8A,100:2563EB&text=Feroz%20Naguru&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Builder%20•%20Tech%20Enthusiast&descAlignY=58"/>
 
-### Full-Stack Developer • Computer Science Student • Builder
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins\&size=28\&duration=3500\&pause=1000\&color=3B82F6\&center=true\&vCenter=true\&width=900\&lines=Computer+Science+Graduate+%F0%9F%8E%93;B.Tech+CSE+\(Data+Science\)+%7C+CGPA+8.24;Building+products+that+solve+real+problems;Full-Stack+Developer+and+Problem+Solver;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <p>
-  <a href="https://github.com/Feroz723">
-    <img src="https://komarev.com/ghpvc/?username=Feroz723&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-  <a href="https://github.com/Feroz723?tab=followers">
-    <img src="https://img.shields.io/github/followers/Feroz723?label=Followers&style=social" alt="followers" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Feroz723&label=Profile+Views&color=2563EB&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Feroz723?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/CGPA-8.24-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/B.Tech-CSE(Data%20Science)-0F172A?style=for-the-badge" />
 </p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-* 🎓 Final-year B.Tech student in Computer Science & Engineering (Data Science)
-* 💻 Passionate about building products, not just projects
-* 🌱 Exploring AI, automation, and scalable web applications
-* ⚡ Interested in full-stack development, backend systems, and product engineering
-* 🎯 Focused on solving real-world problems with technology
-* 🔥 Always learning by shipping and improving
+<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJ0ZTRpbjN6MWg3eXExYml5ZmQ0c2syc2h6Z3BlNm95MjN2M25ieCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif">
+
+🎓 Computer Science & Engineering graduate specializing in **Data Science** with an **8.24 CGPA**.
+
+💻 I enjoy building products, experimenting with ideas, and turning concepts into usable applications.
+
+🚀 My interests include:
+
+* Full-stack web development
+* Backend engineering
+* AI-powered applications
+* Automation and productivity tools
+* Data analytics and visualization
+* SEO and digital products
+
+⚡ I believe that the best way to learn is by building and shipping projects.
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### Languages
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,html,css,sql" />
 </p>
 
-### Frontend
+### Frontend Development
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
 </p>
 
-### Backend
+### Backend Development
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
 </p>
 
-### Databases & Cloud
+### Database & Cloud
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=firebase,supabase,mysql,postgres,prisma" />
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase,supabase,postgres,mysql,prisma" />
 </p>
 
 ### Tools & Platforms
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,render,wordpress,vscode" />
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,wordpress,vscode" />
 </p>
 
 ---
 
-## 🧠 Areas of Interest
-
-* 🌐 Full-Stack Web Development
-* 🤖 AI-Powered Applications
-* 📊 Data Analytics & Visualization
-* 📱 Productivity & Utility Apps
-* ⚙️ Automation Tools
-* 🚀 Product Development
-
----
-
-## 📌 Featured Projects
+# 🚀 Featured Projects
 
 ### 🎓 EdTech Platform
 
-A course management platform where admins can manage students, assign courses, and provide learning resources.
+A learning platform that enables administrators to manage students, assign courses, and distribute educational resources.
 
 **Tech Stack:** React • Firebase • PostgreSQL • Prisma
 
@@ -85,15 +84,15 @@ A course management platform where admins can manage students, assign courses, a
 
 ### 📥 Universal Downloader
 
-A social media downloader supporting multiple platforms with a unified experience.
+A multi-platform downloader supporting YouTube, Instagram, Reddit, Pinterest, and other social platforms.
 
 **Tech Stack:** React • Node.js • yt-dlp • FFmpeg
 
 ---
 
-### 📝 Halo Task Manager
+### 📋 Halo Task Manager
 
-A productivity-focused task manager with animations, themes, and offline support.
+A modern productivity application with smooth animations, multiple themes, and offline support.
 
 **Tech Stack:** Next.js • Tailwind CSS • Capacitor
 
@@ -101,53 +100,90 @@ A productivity-focused task manager with animations, themes, and offline support
 
 ### 📰 TechPick
 
-A technology-focused platform covering gadgets, smartphones, and AI trends.
+A technology platform focused on gadgets, smartphones, AI, and consumer technology.
 
-**Focus:** SEO • Content • Web Development
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Feroz723&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feroz723&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Feroz723&theme=tokyonight&hide_border=true"/>
-</p>
+**Focus:** SEO • Content Strategy • Product Development
 
 ---
 
-## 🏆 GitHub Trophies
+# 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Feroz723&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
-</p>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Feroz723&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feroz723&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Feroz723&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-## 📊 Contribution Graph
+# 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Feroz723&theme=tokyo-night&hide_border=true" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Feroz723&theme=tokyo-night&hide_border=true&radius=16"/>
+
+</div>
 
 ---
 
-## 🤝 Connect With Me
+# 🏆 GitHub Trophies
 
-<p align="left">
-  <a href="https://github.com/Feroz723">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Feroz723&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</div>
+
+---
+
+# 🌌 Current Focus
+
+```text
+📌 Building products that people actually use
+📌 Learning scalable backend architecture
+📌 Exploring AI integrations and automation
+📌 Improving product design and user experience
+📌 Shipping consistently and learning fast
+```
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Feroz723">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/in/feroz-web-developer">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://portfolio-mine-pied.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="mailto:fferoz112233@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### "Building useful products, one commit at a time."
+### 💭 "Building useful products, one commit at a time."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:1E3A8A,100:2563EB"/>
 
 </div>
