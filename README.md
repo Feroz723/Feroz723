@@ -168,7 +168,7 @@ A technology platform focused on gadgets, smartphones, AI, and consumer technolo
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://portfolio-mine-pied.vercel.app/">
+<a href="https://portfolioall.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
